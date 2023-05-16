@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Source: https://stackoverflow.com/questions/18781902/rounded-corner-for-textview-in-android -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >Z
+
+    <padding
+        android:left="1dp"
+        android:right="1dp"
+        android:bottom="1dp"
+        android:top="1dp" />
+
+    <corners android:radius="5dp" />
+</shape>
